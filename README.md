@@ -1,6 +1,6 @@
 # go-jwt
 user signup
-### stack used
+### STACK USED
 golang  
 jwt  
 gorm  
