@@ -24,9 +24,9 @@ In psql shell set password for postgres user if not already set
 ```
 ALTER USER postgres WITH PASSWORD 'your_password';
 ```
-From psql shell, create database titled as "gojwt"
+From psql shell, create database titled as "gojwt" and exit psql shell
 ```
-CREATE DATABASE gojwt;
+CREATE DATABASE gojwt; \q
 ```
 Install git
 ```
