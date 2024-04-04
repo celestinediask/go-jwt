@@ -1,11 +1,11 @@
-# go-jwt
-user signup
+# 🔐 go-jwt
+ A robust and efficient JSON Web Token (JWT) implementation in GoLang.
 ### STACK USED
-golang  
-jwt  
-gorm  
-postgresql  
-gin?
+- golang  
+- jwt  
+- gorm  
+- postgresql  
+- gin?
 ### USER GUIDE
 #### Linux Debian
 Update your system
