@@ -1,6 +1,6 @@
 # 🔐 go-jwt
  A robust and efficient JSON Web Token (JWT) implementation in GoLang.
-### STACK USED
+### TOOLS USED
 - golang  
 - jwt  
 - gorm  
